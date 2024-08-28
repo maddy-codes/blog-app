@@ -1,0 +1,19 @@
+{
+  "name": "blog-app",
+  "version": "1.0.0",
+  "description": "This is a mini project for practicing my nodejs backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maddy-codes/blog-app.git"
+  },
+  "author": "Jatin Arora",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maddy-codes/blog-app/issues"
+  },
+  "homepage": "https://github.com/maddy-codes/blog-app#readme"
+}
